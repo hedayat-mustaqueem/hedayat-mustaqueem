@@ -12,7 +12,7 @@
 > <br>
 🎨 My Coding Artistry
 > <br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,latex,js,)]
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,latex,js,)
 > <br>
 > <br>
 Social Accounts:
