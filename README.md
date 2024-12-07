@@ -17,7 +17,8 @@
 > <br>
 Social Accounts:
 > <br>
-[![My social account](https://skillicons.dev/icons?i=instagram,linkedin,twitter,)](https://www.instagram.com/hedayat_bin_mustaqueem/)
+[![My social account](https://skillicons.dev/icons?i=instagram(https://www.instagram.com/hedayat_bin_mustaqueem/),linkedin,twitter,)]
+
 
 <!---
 hedayat-mustaqueem/hedayat-mustaqueem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
