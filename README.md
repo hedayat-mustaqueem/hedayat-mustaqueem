@@ -17,7 +17,7 @@
 > <br>
 Social Accounts:
 > <br>
-[![My social account](https://skillicons.dev/icons?i=instagram,linkedin,twitter,)][(https://www.instagram.com/hedayat_bin_mustaqueem/),(https://www.linkedin.com/in/hedayat-mustaqueem)]
+[![My social account](https://skillicons.dev/icons?i=instagram=https://www.instagram.com/hedayat_bin_mustaqueem/,linkedin,twitter,)]
 
 
 <!---
