@@ -1,11 +1,11 @@
 >  Hi, I’m Hedayat
 > <br>
- 👀 learning how to code
+ 📖 learning how to code
 > <br>
- 🌱 I’m currently learning WEB DEV
+ 👀 I’m currently learning WEB DEV
 > <br>
 > <br>
-> 📫 How to Connect me.
+> 📬 How to Connect me.
 > <br>
 ![Contact me](https://skillicons.dev/icons?i=gmail&theme=light)
 > <br>
