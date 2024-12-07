@@ -1,4 +1,4 @@
->  Hi, I’m Hedayat <a href="https://skillicons.dev">
+>  Hi, I’m Hedayat
 > <br>
  📖 learning how to code
 > <br>
@@ -17,7 +17,7 @@
 > <br>
 Social Accounts:
 > <br>
-[![My social account](https://skillicons.dev/icons?i=instagram,linkedin,twitter,)](https://www.instagram.com/hedayat_bin_mustaqueem/)
+[![My social account](https://skillicons.dev/icons?i=instagram,linkedin,twitter,)](https://www.instagram.com/hedayat_bin_mustaqueem/,https://www.linkedin.com/hedayat-mustaqueem/)
 
 
 <!---
