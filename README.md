@@ -7,7 +7,7 @@
 > <br>
 > 📫 How to Connect me.
 > <br>
-![Contact me](https://skillicons.dev/icons?i=gmail,)](https://www.hedayatmustaqueem3@gmail.com/)
+![Contact me](https://skillicons.dev/icons?i=gmail&theme=light)]
 > <br>
 > <br>
 🎨 My Coding Artistry
