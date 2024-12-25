@@ -15,9 +15,12 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,java,github,git,vscode,js,)
 > <br>
 > <br>
-Social Accounts:
+🌐 Social Accounts:
 > <br>
-[![My social account](https://skillicons.dev/icons?i=instagram,linkedin,twitter,)](https://www.instagram.com/hedayat_bin_mustaqueem/,https://www.linkedin.com/hedayat-mustaqueem/)"
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/techcreatify)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hedayat-mustaqueem)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HedayatMus73892)"
+
 
 
 
