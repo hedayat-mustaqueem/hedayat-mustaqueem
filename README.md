@@ -19,7 +19,7 @@ Hi, I’m Hedayat <img src="https://camo.githubusercontent.com/d552948e7884c41fd
 > <br>
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/techcreatify)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hedayat-mustaqueem)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HedayatMus73892)"
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/HedayatMus73892)
 
 
 
